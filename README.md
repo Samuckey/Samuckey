@@ -6,14 +6,14 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <a href="https://youtube.com/@_lessa?si=8jHM6bu0cv9U6LH5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -56,15 +56,7 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Samuckey/Samuckey/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=brunolessa4041&unique={true|1|on|yes})?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
 
 ###
 
